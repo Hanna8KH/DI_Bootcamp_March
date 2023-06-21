@@ -57,3 +57,4 @@
 -- DELETE FROM actors WHERE actor_id=4
 -- RETURNING actor_id, first_name, last_name, number_oscars;
 
+-- SELECT count(*) FROM actors;
