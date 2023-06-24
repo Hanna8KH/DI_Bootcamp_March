@@ -1,0 +1,19 @@
+p {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+.languages {
+    display: flex;
+    text-align: center;
+    background-color: bisque;
+    justify-content: space-between;
+   
+
+};
+
+.languages > h4 {
+    /* margin: 2rem; */
+    padding: 1rem;
+}
